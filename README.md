@@ -9,7 +9,10 @@ This is a sample project that lets you try out either option in a few easy steps
 > **Note:** If you already have a codespace or dev container, you can jump to the [Things to try](#things-to-try) section. 
 
 ## Setting up the development container
-
+ind the file named README.md in that folder.
+2. Right-click on it → select “Open With Text Editor” or “Open With VS Code” (if you
+have it installed).
+○ You can also open it in Gedit, VS Code, or Notepad — any text editor is fine
 ### GitHub Codespaces
 Follow these steps to open this sample in a Codespace:
 1. Click the **Code** drop-down menu.
